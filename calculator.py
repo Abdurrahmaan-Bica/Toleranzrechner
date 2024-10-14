@@ -22,6 +22,23 @@ toleranz_tabelle = {
         "r6": {"oberes Abmaß": +16, "Unteres Abmaß": +10},
         "s6": {"oberes Abmaß": +20, "Unteres Abmaß": +14},
     },
+"3-6": {
+        "H6": {"oberes Abmaß": +8, "Unteres Abmaß": 0},
+        "H7": {"oberes Abmaß": +12, "Unteres Abmaß": 0},
+        "H8": {"oberes Abmaß": +18, "Unteres Abmaß": 0},
+        "H11": {"oberes Abmaß": +75, "Unteres Abmaß": 0},
+        "f6": {"oberes Abmaß": -10, "Unteres Abmaß": -18},
+        "g6": {"oberes Abmaß": -4, "Unteres Abmaß": -12},
+        "h6": {"oberes Abmaß": 0, "Unteres Abmaß": -8},
+        "h9": {"oberes Abmaß": 0, "Unteres Abmaß": -30},
+        "h11": {"oberes Abmaß": 0, "Unteres Abmaß": -75},
+        "j6": {"oberes Abmaß": +6, "Unteres Abmaß": -2},
+        "k6": {"oberes Abmaß": +9, "Unteres Abmaß": +1},
+        "m6": {"oberes Abmaß": +12, "Unteres Abmaß": +4},
+        "n6": {"oberes Abmaß": +16, "Unteres Abmaß": +8},
+        "r6": {"oberes Abmaß": +23, "Unteres Abmaß": +15},
+        "s6": {"oberes Abmaß": +27, "Unteres Abmaß": +19},
+    },
 
 
 
