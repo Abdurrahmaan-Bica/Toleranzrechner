@@ -140,5 +140,5 @@ toleranz_tabelle = {
         "n6": {"oberes Abmaß": +39, "Unteres Abmaß": +20},
         "r6": {"oberes Abmaß": +62, "Unteres Abmaß": +43},
         "s6": {"oberes Abmaß": +78, "Unteres Abmaß": +59},
-        }
+    }
 }
