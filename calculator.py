@@ -145,6 +145,13 @@ toleranz_tabelle = {
 while True:
     try:
         user_input = int(input("Wählen Sie bitte eine Option aus: \n"+"1. Programm starten"+"\n"+" 2. Programm beenden\n"))
+        if user_input == 1:
+            print("Programm startet...")
+        elif user_input == 2:
+            print(byeText.renderText("Auf Wiedersehen :)"))
+            break
+        else:
+            print("Die ausgewählte Option existiert nicht. Bitte wählen Sie eine gültige Option aus!")
     except ValueError:
         print("Nur Zahlen sind erlaubt!")
     except Exception:
