@@ -142,3 +142,4 @@ toleranz_tabelle = {
         "s6": {"oberes Abmaß": +78, "Unteres Abmaß": +59},
     }
 }
+user_input = int(input("Wählen Sie bitte eine Option aus: \n"+"1. Programm starten"+"\n"+" 2. Programm beenden\n"))
