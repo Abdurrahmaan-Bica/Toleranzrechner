@@ -142,4 +142,10 @@ toleranz_tabelle = {
         "s6": {"oberes Abmaß": +78, "Unteres Abmaß": +59},
     }
 }
-user_input = int(input("Wählen Sie bitte eine Option aus: \n"+"1. Programm starten"+"\n"+" 2. Programm beenden\n"))
+while True:
+    try:
+        user_input = int(input("Wählen Sie bitte eine Option aus: \n"+"1. Programm starten"+"\n"+" 2. Programm beenden\n"))
+    except ValueError:
+        print("Nur Zahlen sind erlaubt!")
+    except Exception:
+        print("Unbestimmter Fehler!")
